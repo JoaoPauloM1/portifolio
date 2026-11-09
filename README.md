@@ -39,7 +39,7 @@ Para cumprir as diretrizes acadêmicas, o projeto foi desenvolvido **do zero, se
 ## 🛠️ Teste o projeto
 
 <p align="center">
-  <a href="https://joaopaulom1.github.io/portifolio-pessoal/" target="_blank">
+  <a href="https://joaopaulom1.github.io/portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Meu%20Portfólio-00d2ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Botão do Portfólio">
   </a>
 </p>
