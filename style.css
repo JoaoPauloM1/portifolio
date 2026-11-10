@@ -252,8 +252,14 @@ main {
 
 .project-header {
     display: flex;
+    align-items: center;
     justify-content: space-between;
-    margin-bottom: 1.5rem;
+}
+
+.project-actions {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
 }
 
 .project-icon {
@@ -267,8 +273,23 @@ main {
     transition: color 0.3s;
 }
 
+.project-link {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    text-decoration: none;
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    transition: color 0.3s;
+}
+
 .project-link:hover {
     color: var(--accent-blue);
+}
+
+.project-link svg {
+    width: 20px;
+    height: 20px;
 }
 
 .project-card h3 {
