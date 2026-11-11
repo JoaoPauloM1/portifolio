@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+*.old
+.env
+.env.*
+!.env.example
+config.local.js
+secrets/
