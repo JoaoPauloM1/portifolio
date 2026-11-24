@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&weight=500&size=60&duration=4000&pause=250&width=435&height=100&lines=Portif%C3%B3lio)](https://git.io/typing-svg)
 
-<img src="./assets/banner.gif" width="400" alt="Animated banner">
 
 ## 📌 Sobre
 <p>Este projeto é um Portfólio Online Pessoal, desenvolvido utilizando o conceito de Single Page Website com navegação fluida por âncoras, layout responsivo e um visual moderno no estilo Dark Tech.</p>
