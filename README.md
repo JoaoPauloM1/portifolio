@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=100&duration=4000&pause=600&center=true&vCenter=true&width=435&height=100&lines=Portif%C3%B3lio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=100&duration=4000&pause=600&center=true&vCenter=true&width=850&height=100&lines=Portif%C3%B3lio)](https://git.io/typing-svg)
 
 
 ## 📌 Sobre
