@@ -16,7 +16,7 @@
 </div>
 
 
-<img width="400" height="400" alt="Script Coding Sticker by fourplex GmbH" src="https://github.com/user-attachments/assets/c1682e49-303b-4da6-af01-b2df3e2200ed" />
+<img src="./coding.gif" alt="Coding">
 
 
 ## 🛠️ Teste o projeto
